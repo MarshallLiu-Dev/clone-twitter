@@ -1,0 +1,19 @@
+.tweet{
+    color: white;
+    background-color: #00acee;
+    border: none;
+    border-radius: 50px;
+    padding: 8px;
+}
+
+#icon-inicial{
+ justify-content: space-around;
+ display: flex;
+}
+
+#pagina-inicial{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
