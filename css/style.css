@@ -1,9 +1,15 @@
+body{
+font-family: 'Open Sans', sans-serif;
+
+
+}
+
 .tweet{
-    color: white;
-    background-color: #00acee;
-    border: none;
-    border-radius: 50px;
-    padding: 8px;
+color: white;
+background-color: #00acee;
+border: none;
+border-radius: 50px;
+padding: 8px;
 }
 
 #icon-inicial{
@@ -12,8 +18,65 @@
 }
 
 #pagina-inicial{
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+width: unset;
+margin: 0 0.5em 0 0;
+vertical-align: middle;
+}
+.circle-image {
+ display: inline-block; 
+ position: relative;
+ width: 100px; 
+ height: 100px; overflow: 
+ hidden; border-radius: 100%; 
+}
+ 
+.circle-image img {
+ width: auto;
+ height: 100%;
+ margin-left: -50px;
+}
+.inline {
+  width: unset;
+  margin: 0 0.5em 0 0;
+  vertical-align: middle;
+}
+#inicio{
+width: auto;
+height: 100%;
+margin-left: -50px;  
+font-family: 'Open Sans', sans-serif;
+font-weight: bold;  
 }
 
+h3{
+    font-family: 'Open Sans', sans-serif;
+}
+#material-symbols-outlined{
+     background-color: #00acee;
+}
+.opcao-tweet{
+    background-color:white ;
+    color: #00acee;
+    border: 1px;
+    border-radius: 50px;
+    padding: 8px;
+}
+#site{
+  max-width: 1190px;
+  height:700px;
+  margin-top:0;
+  margin-left:auto;
+  margin-bottom:0;
+  margin-right:auto;
+
+}
+
+#primeira-coluna{
+ max-width: 1190px;
+  height:700px;
+  margin: 56px auto;
+
+}
