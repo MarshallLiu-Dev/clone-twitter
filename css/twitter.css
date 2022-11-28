@@ -220,3 +220,52 @@ a{ font-size: 14px !important;
         margin-right: 5px;
 
 }
+
+/* posts e widgets */
+
+.widgets{
+    flex:0.3;
+}
+
+.wedgets_inputs{
+    display: flex;
+    align-items: center;
+    background-color: var(--twitter-background);
+    padding: 10px;
+    border-radius: 20px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.wedgets_inputs input{
+    border: none;
+    background-color: var(--twitter-background);
+    outline: none;
+}
+
+.material-symbols-outlined serch{
+    color: grey;
+}
+.widgets_widgetsConteniner{
+    margin-top: 15px;
+    margin-left: 20px;
+    padding: 20px;
+    background-color: #f5f8fa;
+}
+
+.widgets_widgetsConteniner h2{
+    font-size: 18px;
+    font-weight: 800;
+}
+
+    .sidebarfollow{
+    background-color: black;
+    border: none;
+    color: white;
+    font-weight: 600;
+    border-radius: 30px;
+    width: 60px;
+    height: 30px;
+    margin-top: 20px;
+    margin-left: auto;
+    }

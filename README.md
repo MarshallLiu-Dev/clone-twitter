@@ -1,5 +1,5 @@
 # clone-twitter
-Repositório de códigos da Disciplina de WEB II - IFCE para colocar os códigos do clone do Twitter 
+Repositório de código da Disciplina de WEB II - IFCE para colocar os códigos do clone do Twitter 
 
 Criando a bar lateral 
 Comecei o progeto utilizando a tag table com as tr, th e td mas optei por fazer usando divs que facilitariam na hora de alinhar o    conteúdo com no Tweeter original
