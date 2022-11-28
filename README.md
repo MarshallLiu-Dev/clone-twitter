@@ -6,3 +6,5 @@ Comecei o progeto utilizando a tag table com as tr, th e td mas optei por fazer 
 
 Criando o feed pricipal
 De inicio tentei usar um textarea com um placeholder mas percebi que era melhor um inputs
+
+ achei esse site que incorpora tweets ao projeto https://publish.twitter.com/# 
